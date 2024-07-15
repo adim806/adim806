@@ -3,7 +3,7 @@ Adi Meller
 
 
 
-<div style="text-align: center;"><img src="Default_Explore_the_endless_possibilities_of_coding_with_a_cre_2.jpg" alt="Profile Image" width="300"></div>
+<div style="text-align: center;"><img src="Default_Explore_the_endless_possibilities_of_coding_with_a_cre_2.jpg" alt="Profile Image" width="500"></div>
 
 <h1 align="center">Hi, I'm Adi Meller</h1>
 
